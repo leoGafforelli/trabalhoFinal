@@ -1,6 +1,6 @@
 on: [push] 
 jobs: 
-	cypress: 
+cypress: 
 		runs-on: ubuntu-latest 
 		steps: 
 			- name: Checkout 
