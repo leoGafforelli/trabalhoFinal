@@ -35,4 +35,4 @@ jobs:
 
       # Runs a set of commands using the runners shell
       - name: Run a test
-        run: npx cypress run
+        run: npx cypress open
